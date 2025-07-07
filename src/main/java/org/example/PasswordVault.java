@@ -30,7 +30,7 @@ public class PasswordVault {
     // Map storing the vault entries: site -> {username, password}
     private Map<String, Map<String, String>> vault = new HashMap<>();
 
-    public static void main() throws Exception {
+    public static void main(String[] args) throws Exception {
         new PasswordVault().run();
     }
 
