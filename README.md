@@ -38,7 +38,7 @@ A simple and secure command-line password manager implemented in Java. The appli
 
 1. Clone or download the repository.
 
-2. Compile and run the `PasswordVault` class from a terminal.
+2. Compile and run from a terminal.
 
    ```bash
    cd /path/to/repo-folder
