@@ -1,3 +1,4 @@
+![Password Vault](Password%20Vault.png)
 # Password Vault
 
 A simple and secure command-line password manager implemented in Java. The application securely stores site credentials encrypted with AES-GCM and protects the data with a master password.
