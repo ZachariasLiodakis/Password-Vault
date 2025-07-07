@@ -1,8 +1,19 @@
-<div style="text-align: center;">
-  <img src="Password Vault.png" alt="Password Vault" width="300" />
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="Password Vault.png" alt="Password Vault" height="150" />
+    </td>
+    <td style="vertical-align: middle;">
+      <h2 style="font-size: 0em; margin: 0;">Password Vault</h2>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-# Password Vault
+# 
 
 A simple and secure command-line password manager implemented in Java. The application securely stores site credentials encrypted with AES-GCM and protects the data with a master password.
 
