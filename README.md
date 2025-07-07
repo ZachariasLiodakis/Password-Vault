@@ -42,5 +42,5 @@ A simple and secure command-line password manager implemented in Java. The appli
 
    ```bash
    cd /path/to/repo-folder
-   mvn compile
-   mvn exec:java -Dexec.mainClass=org.example.PasswordVault
+   mvn clean package
+   java -jar target/PasswordVault-1.0-SNAPSHOT-jar-with-dependencies.jar
